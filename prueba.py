@@ -1,1 +1,1 @@
-print("hoy es juernes")
+print("hoy es juernes y mañana viernes")
